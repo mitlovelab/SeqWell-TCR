@@ -1,0 +1,1 @@
+/data/Your_sample_TCRalignSort.bam	species	/data/Your_BC_list.txt

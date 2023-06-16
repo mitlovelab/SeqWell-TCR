@@ -1,0 +1,71 @@
+Gene_Set_Name,Gene_Set_K,Description,Description_short,Genes_Overlap_k,k/K,pvalue,FDR_qvalue,Cluster_subset
+GO_IMMUNE_RESPONSE,1100,Any immune system process that functions in the calibrated response of an organism to a potential internal or invasive threat.,NA,14,0.0127,5.79E-12,3.03E-08,Cluster2
+GO_IMMUNE_SYSTEM_PROCESS,1984,"Any process involved in the development or functioning of the immune system, an organismal system for calibrated responses to potential internal or invasive threats.",NA,17,0.0086,1.02E-11,3.03E-08,Cluster2
+GO_CYTOKINE_MEDIATED_SIGNALING_PATHWAY,452,"A series of molecular signals initiated by the binding of a cytokine to a receptor on the surface of a cell, and ending with regulation of a downstream cellular process, e.g. transcription.",NA,10,0.0221,4.48E-11,8.83E-08,Cluster2
+GO_RESPONSE_TO_TYPE_I_INTERFERON,68,"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a type I interferon stimulus. Type I interferons include the interferon-alpha, beta, delta, episilon, zeta, kappa, tau, and omega gene families.",NA,6,0.0882,1.11E-10,1.65E-07,Cluster2
+GO_RESPONSE_TO_CYTOKINE,714,"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cytokine stimulus.",NA,11,0.0154,2.01E-10,2.38E-07,Cluster2
+GO_CELLULAR_RESPONSE_TO_CYTOKINE_STIMULUS,606,"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cytokine stimulus.",NA,10,0.0165,7.65E-10,7.54E-07,Cluster2
+GO_REGULATION_OF_CELL_DIFFERENTIATION,1492,"Any process that modulates the frequency, rate or extent of cell differentiation, the process in which relatively unspecialized cells acquire specialized structural and functional features.",NA,13,0.0087,3.74E-09,3.16E-06,Cluster2
+GO_INTERFERON_GAMMA_MEDIATED_SIGNALING_PATHWAY,70,"A series of molecular signals initiated by the binding of interferon-gamma to a receptor on the surface of a cell, and ending with regulation of a downstream cellular process, e.g. transcription. Interferon gamma is the only member of the type II interferon found so far.",NA,5,0.0714,1.28E-08,9.49E-06,Cluster2
+GO_DEFENSE_RESPONSE,1231,"Reactions, triggered in response to the presence of a foreign body or the occurrence of an injury, which result in restriction of damage to the organism attacked or prevention/recovery from the infection caused by the attack.",NA,11,0.0089,5.59E-08,3.67E-05,Cluster2
+GO_CELLULAR_RESPONSE_TO_INTERFERON_GAMMA,122,"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus. Interferon gamma is the only member of the type II interferon found so far.",NA,5,0.041,2.11E-07,1.25E-04,Cluster2
+GO_INNATE_IMMUNE_RESPONSE,619,Innate immune responses are defense responses mediated by germline encoded components that directly recognize components of potential pathogens.,NA,8,0.0129,2.87E-07,1.55E-04,Cluster2
+GO_CELLULAR_RESPONSE_TO_ORGANIC_SUBSTANCE,1848,"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organic substance stimulus.",NA,12,0.0065,3.99E-07,1.97E-04,Cluster2
+GO_RESPONSE_TO_INTERFERON_GAMMA,144,"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus. Interferon-gamma is also known as type II interferon.",NA,5,0.0347,4.81E-07,2.19E-04,Cluster2
+GO_SIGNAL_TRANSDUCER_ACTIVITY,1731,Conveys a signal across a cell to trigger a change in cell function or state. A signal is a physical entity or change in state that is used to transfer information in order to trigger a response.,NA,11,0.0064,1.63E-06,6.90E-04,Cluster2
+GO_REGULATION_OF_IMMUNE_SYSTEM_PROCESS,1403,"Any process that modulates the frequency, rate, or extent of an immune system process.",NA,10,0.0071,1.89E-06,7.47E-04,Cluster2
+GO_REGULATION_OF_IMMUNE_RESPONSE,858,"Any process that modulates the frequency, rate or extent of the immune response, the immunological reaction of an organism to an immunogenic stimulus.",NA,8,0.0093,3.28E-06,1.21E-03,Cluster2
+GO_NEGATIVE_REGULATION_OF_CELL_DIFFERENTIATION,609,"Any process that stops, prevents, or reduces the frequency, rate or extent of cell differentiation.",NA,7,0.0115,3.68E-06,1.28E-03,Cluster2
+GO_REGULATION_OF_CELL_ADHESION,629,"Any process that modulates the frequency, rate or extent of attachment of a cell to another cell or to the extracellular matrix.",NA,7,0.0111,4.54E-06,1.49E-03,Cluster2
+GO_REGULATION_OF_LEUKOCYTE_DIFFERENTIATION,232,"Any process that modulates the frequency, rate or extent of leukocyte differentiation.",NA,5,0.0216,5.00E-06,1.56E-03,Cluster2
+GO_RESPONSE_TO_VIRUS,247,"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from a virus.",NA,5,0.0202,6.77E-06,2.00E-03,Cluster2
+GO_IMMUNE_SYSTEM_PROCESS,1984,"Any process involved in the development or functioning of the immune system, an organismal system for calibrated responses to potential internal or invasive threats.",NA,20,0.0101,8.04E-19,4.75E-15,Cluster3
+GO_REGULATION_OF_IMMUNE_SYSTEM_PROCESS,1403,"Any process that modulates the frequency, rate, or extent of an immune system process.",NA,15,0.0107,3.17E-14,9.39E-11,Cluster3
+GO_REGULATION_OF_CELL_ACTIVATION,484,"Any process that modulates the frequency, rate or extent of cell activation, the change in the morphology or behavior of a cell resulting from exposure to an activating factor such as a cellular or soluble ligand.",NA,11,0.0227,5.25E-14,1.03E-10,Cluster3
+GO_POSITIVE_REGULATION_OF_CELL_CELL_ADHESION,243,Any process that activates or increases the rate or extent of cell adhesion to another cell.,NA,9,0.037,1.74E-13,2.13E-10,Cluster3
+GO_POSITIVE_REGULATION_OF_CELL_ADHESION,376,"Any process that activates or increases the frequency, rate or extent of cell adhesion.",NA,10,0.0266,1.83E-13,2.13E-10,Cluster3
+GO_CELL_SURFACE,757,The external part of the cell wall and/or plasma membrane.,NA,12,0.0159,2.16E-13,2.13E-10,Cluster3
+GO_IMMUNE_RESPONSE,1100,Any immune system process that functions in the calibrated response of an organism to a potential internal or invasive threat.,NA,13,0.0118,7.16E-13,6.05E-10,Cluster3
+GO_LOCOMOTION,1114,Self-propelled movement of a cell or organism from one location to another.,NA,13,0.0117,8.39E-13,6.15E-10,Cluster3
+GO_REGULATION_OF_IMMUNE_RESPONSE,858,"Any process that modulates the frequency, rate or extent of the immune response, the immunological reaction of an organism to an immunogenic stimulus.",NA,12,0.014,9.36E-13,6.15E-10,Cluster3
+GO_REGULATION_OF_HOMOTYPIC_CELL_CELL_ADHESION,307,"Any process that modulates the frequency, rate, or extent of homotypic cell-cell adhesion.",NA,9,0.0293,1.43E-12,8.45E-10,Cluster3
+GO_POSITIVE_REGULATION_OF_CELL_ACTIVATION,311,"Any process that activates or increases the frequency, rate or extent of activation.",NA,9,0.0289,1.60E-12,8.63E-10,Cluster3
+GO_DEFENSE_RESPONSE,1231,"Reactions, triggered in response to the presence of a foreign body or the occurrence of an injury, which result in restriction of damage to the organism attacked or prevention/recovery from the infection caused by the attack.",NA,13,0.0106,2.93E-12,1.45E-09,Cluster3
+GO_INTRINSIC_COMPONENT_OF_PLASMA_MEMBRANE,1649,The component of the plasma membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor that is similarly embedded in the membrane.,NA,14,0.0085,6.35E-12,2.89E-09,Cluster3
+GO_EXTERNAL_SIDE_OF_PLASMA_MEMBRANE,238,The leaflet of the plasma membrane that faces away from the cytoplasm and any proteins embedded or anchored in it or attached to its surface.,NA,8,0.0336,9.59E-12,3.79E-09,Cluster3
+GO_REGULATION_OF_CELL_CELL_ADHESION,380,"Any process that modulates the frequency, rate or extent of attachment of a cell to another cell.",NA,9,0.0237,9.60E-12,3.79E-09,Cluster3
+GO_LEUKOCYTE_MIGRATION,259,The movement of a leukocyte within or between different tissues and organs of the body.,NA,8,0.0309,1.88E-11,6.97E-09,Cluster3
+GO_LEUKOCYTE_ACTIVATION,414,"A change in morphology and behavior of a leukocyte resulting from exposure to a specific antigen, mitogen, cytokine, cellular ligand, or soluble factor.",NA,9,0.0217,2.06E-11,7.16E-09,Cluster3
+GO_PROTEIN_DIMERIZATION_ACTIVITY,1149,"The formation of a protein dimer, a macromolecular structure consists of two noncovalently associated identical or nonidentical subunits.",NA,12,0.0104,2.77E-11,9.03E-09,Cluster3
+GO_REGULATION_OF_CELL_ADHESION,629,"Any process that modulates the frequency, rate or extent of attachment of a cell to another cell or to the extracellular matrix.",NA,10,0.0159,2.90E-11,9.03E-09,Cluster3
+GO_SINGLE_ORGANISM_CELL_ADHESION,459,"The attachment, via cell adhesion molecules, of a cell to either another cell of the same organism, or to an underlying substrate of the same organism such as the extracellular matrix.",NA,9,0.0196,5.13E-11,1.52E-08,Cluster3
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
