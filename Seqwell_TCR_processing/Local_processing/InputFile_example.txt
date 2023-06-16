@@ -1,0 +1,2 @@
+bam	BCList (can be left blank)
+C:\Directory\to\alignedTCRbamfile\ExampleAlignedSortSort.bam	C:\Directory\to\CellBarcodeList\BC.txt

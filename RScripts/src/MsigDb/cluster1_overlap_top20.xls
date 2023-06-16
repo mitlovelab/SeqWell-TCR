@@ -1,0 +1,156 @@
+
+Overlap Results
+
+Collection(s):	H
+# overlaps shown:	20
+# genesets in collections:	50
+# genes in comparison (n):	121
+# genes in universe (N):	45956
+
+Gene Set Name	# Genes in Gene Set (K)	Description	# Genes in Overlap (k)	k/K	p-value	FDR q-value
+HALLMARK_MYC_TARGETS_V1	200	A subgroup of genes regulated by MYC - version 1 (v1).	19	0.0950	2.67E-24	8.13E-23
+HALLMARK_MYC_TARGETS_V2	58	A subgroup of genes regulated by MYC - version 2 (v2).	14	0.2414	3.25E-24	8.13E-23
+HALLMARK_IL2_STAT5_SIGNALING	200	Genes up-regulated by STAT5 in response to IL2 stimulation.	16	0.0800	2.16E-19	2.7E-18
+HALLMARK_MTORC1_SIGNALING	200	Genes up-regulated through activation of mTORC1 complex.	16	0.0800	2.16E-19	2.7E-18
+HALLMARK_TNFA_SIGNALING_VIA_NFKB	200	Genes regulated by NF-kB in response to TNF [GeneID=7124].	15	0.0750	8.05E-18	8.05E-17
+HALLMARK_ALLOGRAFT_REJECTION	200	Genes up-regulated during transplant rejection.	12	0.0600	2.56E-13	2.13E-12
+HALLMARK_UNFOLDED_PROTEIN_RESPONSE	113	Genes up-regulated during unfolded protein response, a cellular stress response related to the endoplasmic reticulum.	8	0.0708	7.42E-10	5.3E-9
+HALLMARK_INFLAMMATORY_RESPONSE	200	Genes defining inflammatory response.	8	0.0400	6.61E-8	4.13E-7
+HALLMARK_E2F_TARGETS	200	Genes encoding cell cycle related targets of E2F transcription factors.	6	0.0300	1.6E-5	6.66E-5
+HALLMARK_G2M_CHECKPOINT	200	Genes involved in the G2/M checkpoint, as in progression through the cell division cycle.	6	0.0300	1.6E-5	6.66E-5
+HALLMARK_HYPOXIA	200	Genes up-regulated in response to low oxygen levels (hypoxia).	6	0.0300	1.6E-5	6.66E-5
+HALLMARK_INTERFERON_GAMMA_RESPONSE	200	Genes up-regulated in response to IFNG [GeneID=3458].	6	0.0300	1.6E-5	6.66E-5
+HALLMARK_UV_RESPONSE_DN	144	Genes down-regulated in response to ultraviolet (UV) radiation.	5	0.0347	4.18E-5	1.61E-4
+HALLMARK_GLYCOLYSIS	200	Genes encoding proteins involved in glycolysis and gluconeogenesis.	5	0.0250	1.96E-4	7E-4
+HALLMARK_UV_RESPONSE_UP	158	Genes up-regulated in response to ultraviolet (UV) radiation.	4	0.0253	8.36E-4	2.79E-3
+HALLMARK_IL6_JAK_STAT3_SIGNALING	87	Genes up-regulated by IL6 [GeneID=3569] via STAT3 [GeneID=6774], e.g., during acute phase response.	3	0.0345	1.61E-3	5.02E-3
+HALLMARK_ESTROGEN_RESPONSE_EARLY	200	Genes defining early response to estrogen.	4	0.0200	1.99E-3	5.85E-3
+HALLMARK_PI3K_AKT_MTOR_SIGNALING	105	Genes up-regulated by activation of the PI3K/AKT/mTOR pathway.	3	0.0286	2.74E-3	7.62E-3
+HALLMARK_WNT_BETA_CATENIN_SIGNALING	42	Genes up-regulated by activation of WNT signaling through accumulation of beta catenin CTNNB1 [GeneID=1499].	2	0.0476	5.53E-3	1.45E-2
+HALLMARK_FATTY_ACID_METABOLISM	158	Genes encoding proteins involved in metabolism of fatty acids.	3	0.0190	8.54E-3	2.13E-2
+
+
+Gene/Gene Set Overlap Matrix
+
+Entrez Gene Id	Gene Symbol	Gene Description	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2	HALLMARK_IL2_STAT5_SIGNALING	HALLMARK_MTORC1_SIGNALING	HALLMARK_TNFA_SIGNALING_VIA_NFKB	HALLMARK_ALLOGRAFT_REJECTION	HALLMARK_UNFOLDED_PROTEIN_RESPONSE	HALLMARK_INFLAMMATORY_RESPONSE	HALLMARK_E2F_TARGETS	HALLMARK_G2M_CHECKPOINT	HALLMARK_HYPOXIA	HALLMARK_INTERFERON_GAMMA_RESPONSE	HALLMARK_UV_RESPONSE_DN	HALLMARK_GLYCOLYSIS	HALLMARK_UV_RESPONSE_UP	HALLMARK_IL6_JAK_STAT3_SIGNALING	HALLMARK_ESTROGEN_RESPONSE_EARLY	HALLMARK_PI3K_AKT_MTOR_SIGNALING	HALLMARK_WNT_BETA_CATENIN_SIGNALING	HALLMARK_FATTY_ACID_METABOLISM
+4609	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2	HALLMARK_IL2_STAT5_SIGNALING		HALLMARK_TNFA_SIGNALING_VIA_NFKB			HALLMARK_INFLAMMATORY_RESPONSE	HALLMARK_E2F_TARGETS	HALLMARK_G2M_CHECKPOINT			HALLMARK_UV_RESPONSE_DN				HALLMARK_ESTROGEN_RESPONSE_EARLY		HALLMARK_WNT_BETA_CATENIN_SIGNALING	
+3329	HSPD1	heat shock 60kDa protein 1 (chaperonin)	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2		HALLMARK_MTORC1_SIGNALING																
+4869	NPM1	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2				HALLMARK_ALLOGRAFT_REJECTION	HALLMARK_UNFOLDED_PROTEIN_RESPONSE													
+9221	NOLC1	nucleolar and coiled-body phosphoprotein 1	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2					HALLMARK_UNFOLDED_PROTEIN_RESPONSE		HALLMARK_E2F_TARGETS	HALLMARK_G2M_CHECKPOINT										
+10528	NOP56	NOP56 ribonucleoprotein homolog (yeast)	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2					HALLMARK_UNFOLDED_PROTEIN_RESPONSE		HALLMARK_E2F_TARGETS											
+5036	PA2G4	proliferation-associated 2G4, 38kDa	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2							HALLMARK_E2F_TARGETS											
+26354	GNL3	guanine nucleotide binding protein-like 3 (nucleolar)	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2																		
+6723	SRM	spermidine synthase	HALLMARK_MYC_TARGETS_V1	HALLMARK_MYC_TARGETS_V2																		
+3939	LDHA	lactate dehydrogenase A	HALLMARK_MYC_TARGETS_V1			HALLMARK_MTORC1_SIGNALING							HALLMARK_HYPOXIA			HALLMARK_GLYCOLYSIS						HALLMARK_FATTY_ACID_METABOLISM
+2058	EPRS	glutamyl-prolyl-tRNA synthetase	HALLMARK_MYC_TARGETS_V1			HALLMARK_MTORC1_SIGNALING																
+6059	ABCE1	ATP-binding cassette, sub-family E (OABP), member 1	HALLMARK_MYC_TARGETS_V1					HALLMARK_ALLOGRAFT_REJECTION														
+55651	NHP2	NHP2 ribonucleoprotein homolog (yeast)	HALLMARK_MYC_TARGETS_V1						HALLMARK_UNFOLDED_PROTEIN_RESPONSE													
+5902	RANBP1	RAN binding protein 1	HALLMARK_MYC_TARGETS_V1								HALLMARK_E2F_TARGETS											
+9188	DDX21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	HALLMARK_MYC_TARGETS_V1														HALLMARK_UV_RESPONSE_UP					
+22948	CCT5	chaperonin containing TCP1, subunit 5 (epsilon)	HALLMARK_MYC_TARGETS_V1																			
+3326	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	HALLMARK_MYC_TARGETS_V1																			
+708	C1QBP	complement component 1, q subcomponent binding protein	HALLMARK_MYC_TARGETS_V1																			
+7203	CCT3	chaperonin containing TCP1, subunit 3 (gamma)	HALLMARK_MYC_TARGETS_V1																			
+8662	EIF3B	eukaryotic translation initiation factor 3, subunit B	HALLMARK_MYC_TARGETS_V1																			
+3099	HK2	hexokinase 2		HALLMARK_MYC_TARGETS_V2	HALLMARK_IL2_STAT5_SIGNALING	HALLMARK_MTORC1_SIGNALING							HALLMARK_HYPOXIA			HALLMARK_GLYCOLYSIS						
+4839	NOP2	NOP2 nucleolar protein homolog (yeast)		HALLMARK_MYC_TARGETS_V2	HALLMARK_IL2_STAT5_SIGNALING																	
+1844	DUSP2	dual specificity phosphatase 2		HALLMARK_MYC_TARGETS_V2			HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+10514	MYBBP1A	MYB binding protein (P160) 1a		HALLMARK_MYC_TARGETS_V2															HALLMARK_ESTROGEN_RESPONSE_EARLY			
+23160	WDR43	WD repeat domain 43		HALLMARK_MYC_TARGETS_V2																		
+56342	PPAN	peter pan homolog (Drosophila)		HALLMARK_MYC_TARGETS_V2																		
+8553	BHLHE40	basic helix-loop-helix family, member e40			HALLMARK_IL2_STAT5_SIGNALING	HALLMARK_MTORC1_SIGNALING	HALLMARK_TNFA_SIGNALING_VIA_NFKB						HALLMARK_HYPOXIA		HALLMARK_UV_RESPONSE_DN				HALLMARK_ESTROGEN_RESPONSE_EARLY			
+6510	SLC1A5	solute carrier family 1 (neutral amino acid transporter), member 5			HALLMARK_IL2_STAT5_SIGNALING	HALLMARK_MTORC1_SIGNALING																
+3604	TNFRSF9	tumor necrosis factor receptor superfamily, member 9			HALLMARK_IL2_STAT5_SIGNALING		HALLMARK_TNFA_SIGNALING_VIA_NFKB			HALLMARK_INFLAMMATORY_RESPONSE												
+4616	GADD45B	growth arrest and DNA-damage-inducible, beta			HALLMARK_IL2_STAT5_SIGNALING		HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+3394	IRF8	interferon regulatory factor 8			HALLMARK_IL2_STAT5_SIGNALING			HALLMARK_ALLOGRAFT_REJECTION						HALLMARK_INTERFERON_GAMMA_RESPONSE								
+3662	IRF4	interferon regulatory factor 4			HALLMARK_IL2_STAT5_SIGNALING			HALLMARK_ALLOGRAFT_REJECTION						HALLMARK_INTERFERON_GAMMA_RESPONSE								
+3559	IL2RA	interleukin 2 receptor, alpha			HALLMARK_IL2_STAT5_SIGNALING			HALLMARK_ALLOGRAFT_REJECTION										HALLMARK_IL6_JAK_STAT3_SIGNALING				
+8477	GPR65	G protein-coupled receptor 65			HALLMARK_IL2_STAT5_SIGNALING			HALLMARK_ALLOGRAFT_REJECTION														
+7133	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B			HALLMARK_IL2_STAT5_SIGNALING					HALLMARK_INFLAMMATORY_RESPONSE								HALLMARK_IL6_JAK_STAT3_SIGNALING				
+6004	RGS16	regulator of G-protein signaling 16			HALLMARK_IL2_STAT5_SIGNALING					HALLMARK_INFLAMMATORY_RESPONSE												
+214	ALCAM	activated leukocyte cell adhesion molecule			HALLMARK_IL2_STAT5_SIGNALING																	
+29851	ICOS	inducible T-cell co-stimulator			HALLMARK_IL2_STAT5_SIGNALING																	
+64332	NFKBIZ	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, zeta			HALLMARK_IL2_STAT5_SIGNALING																	
+3309	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)				HALLMARK_MTORC1_SIGNALING			HALLMARK_UNFOLDED_PROTEIN_RESPONSE				HALLMARK_HYPOXIA			HALLMARK_GLYCOLYSIS						
+7184	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1				HALLMARK_MTORC1_SIGNALING			HALLMARK_UNFOLDED_PROTEIN_RESPONSE											HALLMARK_PI3K_AKT_MTOR_SIGNALING		
+3313	HSPA9	heat shock 70kDa protein 9 (mortalin)				HALLMARK_MTORC1_SIGNALING			HALLMARK_UNFOLDED_PROTEIN_RESPONSE													
+7037	TFRC	transferrin receptor (p90, CD71)				HALLMARK_MTORC1_SIGNALING					HALLMARK_E2F_TARGETS						HALLMARK_UV_RESPONSE_UP					
+226	ALDOA	aldolase A, fructose-bisphosphate				HALLMARK_MTORC1_SIGNALING							HALLMARK_HYPOXIA			HALLMARK_GLYCOLYSIS	HALLMARK_UV_RESPONSE_UP					HALLMARK_FATTY_ACID_METABOLISM
+4793	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta				HALLMARK_MTORC1_SIGNALING														HALLMARK_PI3K_AKT_MTOR_SIGNALING		
+6503	SLA	Src-like-adaptor				HALLMARK_MTORC1_SIGNALING														HALLMARK_PI3K_AKT_MTOR_SIGNALING		
+116496	FAM129A	family with sequence similarity 129, member A				HALLMARK_MTORC1_SIGNALING																
+5464	PPA1	pyrophosphatase (inorganic) 1				HALLMARK_MTORC1_SIGNALING																
+908	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1)				HALLMARK_MTORC1_SIGNALING																
+6351	CCL4	chemokine (C-C motif) ligand 4					HALLMARK_TNFA_SIGNALING_VIA_NFKB	HALLMARK_ALLOGRAFT_REJECTION														
+4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1					HALLMARK_TNFA_SIGNALING_VIA_NFKB			HALLMARK_INFLAMMATORY_RESPONSE				HALLMARK_INTERFERON_GAMMA_RESPONSE	HALLMARK_UV_RESPONSE_DN							
+3164	NR4A1	nuclear receptor subfamily 4, group A, member 1					HALLMARK_TNFA_SIGNALING_VIA_NFKB										HALLMARK_UV_RESPONSE_UP					
+5341	PLEK	pleckstrin					HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+10938	EHD1	EH-domain containing 1					HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+4929	NR4A2	nuclear receptor subfamily 4, group A, member 2					HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+1846	DUSP4	dual specificity phosphatase 4					HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+23135	KDM6B	lysine (K)-specific demethylase 6B					HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+5966	REL	v-rel reticuloendotheliosis viral oncogene homolog (avian)					HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+8013	NR4A3	nuclear receptor subfamily 4, group A, member 3					HALLMARK_TNFA_SIGNALING_VIA_NFKB															
+3091	HIF1A	hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)						HALLMARK_ALLOGRAFT_REJECTION		HALLMARK_INFLAMMATORY_RESPONSE		HALLMARK_G2M_CHECKPOINT		HALLMARK_INTERFERON_GAMMA_RESPONSE								
+3458	IFNG	interferon, gamma						HALLMARK_ALLOGRAFT_REJECTION														
+1984	EIF5A	eukaryotic translation initiation factor 5A						HALLMARK_ALLOGRAFT_REJECTION														
+5552	SRGN	serglycin						HALLMARK_ALLOGRAFT_REJECTION														
+56253	CRTAM	cytotoxic and regulatory T cell molecule						HALLMARK_ALLOGRAFT_REJECTION														
+10525	HYOU1	hypoxia up-regulated 1							HALLMARK_UNFOLDED_PROTEIN_RESPONSE													
+6541	SLC7A1	solute carrier family 7 (cationic amino acid transporter, y+ system), member 1								HALLMARK_INFLAMMATORY_RESPONSE		HALLMARK_G2M_CHECKPOINT			HALLMARK_UV_RESPONSE_DN							
+5996	RGS1	regulator of G-protein signaling 1								HALLMARK_INFLAMMATORY_RESPONSE												
+3312	HSPA8	heat shock 70kDa protein 8										HALLMARK_G2M_CHECKPOINT										
+4691	NCL	nucleolin										HALLMARK_G2M_CHECKPOINT										
+3516	RBPJ	recombination signal binding protein for immunoglobulin kappa J region											HALLMARK_HYPOXIA								HALLMARK_WNT_BETA_CATENIN_SIGNALING	
+6774	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)												HALLMARK_INTERFERON_GAMMA_RESPONSE				HALLMARK_IL6_JAK_STAT3_SIGNALING				
+6375	XCL1	chemokine (C motif) ligand 1												HALLMARK_INTERFERON_GAMMA_RESPONSE								
+6310	ATXN1	ataxin 1													HALLMARK_UV_RESPONSE_DN							
+9123	SLC16A3	solute carrier family 16, member 3 (monocarboxylic acid transporter 4)														HALLMARK_GLYCOLYSIS						
+6566	SLC16A1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)																	HALLMARK_ESTROGEN_RESPONSE_EARLY			
+10808	HSPH1	heat shock 105kDa/110kDa protein 1																				HALLMARK_FATTY_ACID_METABOLISM
+64065	PERP	PERP, TP53 apoptosis effector																				
+4522	MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase																				
+3595	IL12RB2	interleukin 12 receptor, beta 2																				
+10694	CCT8	chaperonin containing TCP1, subunit 8 (theta)																				
+10923	SUB1	SUB1 homolog (S. cerevisiae)																				
+10969	EBNA1BP2	EBNA1 binding protein 2																				
+117246	FTSJ3	FtsJ homolog 3 (E. coli)																				
+121536	AEBP2	AE binding protein 2																				
+196383	RILPL2	Rab interacting lysosomal protein-like 2																				
+201633	TIGIT	T cell immunoreceptor with Ig and ITIM domains																				
+22984	PDCD11	programmed cell death 11																				
+23195	MDN1	MDN1, midasin homolog (yeast)																				
+23367	LARP1	La ribonucleoprotein domain family, member 1																				
+23560	GTPBP4	GTP binding protein 4																				
+257068	PLCXD2	phosphatidylinositol-specific phospholipase C, X domain containing 2																				
+26155	NOC2L	nucleolar complex associated 2 homolog (S. cerevisiae)																				
+27033	ZBTB32	zinc finger and BTB domain containing 32																				
+3182	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B																				
+337988	CCL9	---																				
+3843	IPO5	importin 5																				
+4144	MAT2A	methionine adenosyltransferase II, alpha																				
+4677	NARS	asparaginyl-tRNA synthetase																				
+4818	NKG7	natural killer cell group 7 sequence																				
+5034	P4HB	prolyl 4-hydroxylase, beta polypeptide																				
+51602	NOP58	NOP58 ribonucleoprotein homolog (yeast)																				
+5272	SERPINB9	serpin peptidase inhibitor, clade B (ovalbumin), member 9																				
+54888	NSUN2	NOP2/Sun domain family, member 2																				
+55127	HEATR1	HEAT repeat containing 1																				
+55210	ATAD3A	ATPase family, AAA domain containing 3A																				
+55720	TSR1	TSR1, 20S rRNA accumulation, homolog (S. cerevisiae)																				
+55752	SEPT11	septin 11																				
+6348	CCL3	chemokine (C-C motif) ligand 3																				
+64115	C10orf54	chromosome 10 open reading frame 54																				
+64651	CSRNP1	cysteine-serine-rich nuclear protein 1																				
+8411	EEA1	early endosome antigen 1																				
+84444	DOT1L	DOT1-like, histone H3 methyltransferase (S. cerevisiae)																				
+84807	NFKBID	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, delta																				
+84868	HAVCR2	hepatitis A virus cellular receptor 2																				
+860	RUNX2	runt-related transcription factor 2																				
+8740	TNFSF14	tumor necrosis factor (ligand) superfamily, member 14																				
+8880	FUBP1	far upstream element (FUSE) binding protein 1																				
+9047	SH2D2A	SH2 domain containing 2A																				
+923	CD6	CD6 molecule																				
+94120	SYTL3	synaptotagmin-like 3																				
+9497	SLC4A7	solute carrier family 4, sodium bicarbonate cotransporter, member 7																				
+9839	ZEB2	zinc finger E-box binding homeobox 2																				

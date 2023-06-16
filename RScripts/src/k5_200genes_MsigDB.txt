@@ -1,0 +1,157 @@
+Gene_Set_Name	Genes_Gene_Set_K	Systematic_name	Description	Short_Description	Genes_in_Overlap_k	k/K	p_value	FDR_q_value	Cluster_name
+GSE29618_BCELL_VS_MDC_DN	200	M4944	Genes down-regulated in comparison of B cells versus myeloid dendritic cells (mDC).	NA	30	0.15	4.19E-44	2.04E-40	Late_PT
+GSE11057_NAIVE_VS_MEMORY_CD4_TCELL_DN	200	M3119	Genes down-regulated in comparison of naive T cells versus memory T cells.	Up-regulated in memory vs naive CD4 T cells	24	0.12	7.41E-33	1.81E-29	Late_PT
+GSE11057_NAIVE_VS_EFF_MEMORY_CD4_TCELL_DN	200	M3105	Genes down-regulated in comparison of naive T cells versus effector memory T cells.	Up-regulated in effector memory vs naive CD4 T cells	23	0.115	4.59E-31	7.46E-28	Late_PT
+GSE22886_NAIVE_VS_IGG_IGA_MEMORY_BCELL_DN	200	M4433	Genes down-regulated in comparison of naive B cells versus memory IgG IgA B cells.	NA	19	0.095	3.72E-24	3.02E-21	Late_PT
+GSE24026_PD1_LIGATION_VS_CTRL_IN_ACT_TCELL_LINE_UP	200	M4534	Genes up-regulated in comparison of Jurkat T cells stimulated in the presence of PD-1 versus controls.	NA	19	0.095	3.72E-24	3.02E-21	Late_PT
+KAECH_NAIVE_VS_DAY8_EFF_CD8_TCELL_DN	200	M3013	Genes down-regulated in naïve CD8 T cells compared to effector CD8 T cells at the peak expansion phase (day 8 after LCMV-Armstrong infection).	Up-regulated in effector vs naive CD8 T cells during expansion	19	0.095	3.72E-24	3.02E-21	Late_PT
+GSE41978_ID2_KO_VS_ID2_KO_AND_BIM_KO_KLRG1_LOW_EFFECTOR_CD8_TCELL_DN	200	M9560	Genes down-regulated in KLRG1 low [GeneID=10219] CD8 T effector cells during infection: ID2 [GeneID=3398] knockout versus ID2 and BCL2L11 [GeneID=3398;10018] knockout.	NA	18	0.09	1.69E-22	1.18E-19	Late_PT
+GSE37532_WT_VS_PPARG_KO_LN_TCONV_DN	176	M9004	Genes down-regulated in T conv from lymph node of elderly (retired breeder) mice: wildtype versus PPARG [GeneID=5468] knockout.	NA	17	0.0966	7.80E-22	4.66E-19	Late_PT
+GSE15330_LYMPHOID_MULTIPOTENT_VS_MEGAKARYOCYTE_ERYTHROID_PROGENITOR_IKAROS_KO_DN	177	M7010	Genes down-regulated in IKZF1 [GeneID=10320] knockout: lymphoid-primed multipotent progenitors versus megakaryo-erythrocyte progenitors.	NA	17	0.096	8.61E-22	4.66E-19	Late_PT
+GSE13738_RESTING_VS_BYSTANDER_ACTIVATED_CD4_TCELL_DN	200	M3322	Genes down-regulated in comparison of resting CD4 [GeneID=920] T cells versus bystander activated CD4 [GeneID=920] T cells.	Up-regulated in activated vs resting CD4 T cells	17	0.085	7.17E-21	2.91E-18	Late_PT
+GSE28726_ACT_CD4_TCELL_VS_ACT_NKTCELL_UP	200	M8312	Genes up-regulated in activated T cells: CD4 [GeneID=920] versus NKT.	Up-regulated in activated CD4 T cells vs NKT cells	17	0.085	7.17E-21	2.91E-18	Late_PT
+GSE29618_BCELL_VS_MDC_DAY7_FLU_VACCINE_DN	200	M4962	Genes down-regulated in comparison of B cells from influenza vaccinee at day 7 post-vaccination versus myeloid dendritic cells (mDC) at day 7 post-vaccination.	NA	17	0.085	7.17E-21	2.91E-18	Late_PT
+GSE18281_CORTICAL_VS_MEDULLARY_THYMOCYTE_UP	200	M7252	Genes up-regulated in thymocytes: cortical versus medullary sources.	NA	16	0.08	2.83E-19	6.90E-17	Late_PT
+GSE22886_NAIVE_VS_IGM_MEMORY_BCELL_DN	200	M4436	Genes down-regulated in comparison of naive B cells versus memory IgM B cells.	NA	16	0.08	2.83E-19	6.90E-17	Late_PT
+GSE33162_HDAC3_KO_VS_HDAC3_KO_MACROPHAGE_DN	200	M9039	Genes down-regulated in macrophages with knockout of HDAC3 [GeneID=8841]: heterozygous versus homozygous.	NA	16	0.08	2.83E-19	6.90E-17	Late_PT
+GSE7460_TCONV_VS_TREG_THYMUS_DN	200	M5676	Genes down-regulated in comparison of TconvThy versus TregThy (see Fig. 1 in the paper for details).	NA	16	0.08	2.83E-19	6.90E-17	Late_PT
+GSE9650_NAIVE_VS_EFF_CD8_TCELL_DN	200	M5820	Genes down-regulated in comparison of naive CD8 T cells versus effector CD8 T cells.	Up-regulated in effector vs naive CD8 T cells	16	0.08	2.83E-19	6.90E-17	Late_PT
+GSE9650_NAIVE_VS_MEMORY_CD8_TCELL_DN	200	M5832	Genes down-regulated in comparison of naive CD8 T cells versus memory CD8 T cells.	Up-regulated in memory vs naive CD8 T cells	16	0.08	2.83E-19	6.90E-17	Late_PT
+KAECH_NAIVE_VS_DAY15_EFF_CD8_TCELL_DN	200	M3017	Genes down-regulated in naïve CD8 T cells compared to effector CD8 T cells at contraction phase (day 15 after LCMV-Armstrong infection).	Up-regulated in effector vs naive CD8 T cells during contraction	16	0.08	2.83E-19	6.90E-17	Late_PT
+KAECH_NAIVE_VS_MEMORY_CD8_TCELL_DN	200	M3022	Genes down-regulated in naïve CD8 T cells compared to memory CD8 T cells (day 40+ after LCMV-Armstrong infection).	NA	16	0.08	2.83E-19	6.90E-17	Late_PT
+GSE28726_ACT_CD4_TCELL_VS_ACT_VA24NEG_NKTCELL_DN	200	M8306	Genes down-regulated in activated T cells: CD4 [GeneID=920] versus Va24- NKT.	NA	11	0.055	8.72E-18	4.25E-14	Early_PT
+GSE16450_CTRL_VS_IFNA_6H_STIM_IMMATURE_NEURON_CELL_LINE_DN	199	M7410	Genes down-regulated in immature neuron cell line: control versus interferon alpha (6h).	NA	10	0.0503	7.85E-16	8.05E-13	Early_PT
+GSE22886_NAIVE_CD8_TCELL_VS_MONOCYTE_UP	200	M4494	Genes up-regulated in comparison of naive CD8 T cells versus day 0 monocytes.	NA	10	0.05	8.26E-16	8.05E-13	Early_PT
+GSE24574_BCL6_HIGH_VS_LOW_TFH_CD4_TCELL_UP	200	M8324	Genes up-regulated in follicular helper T cells: BCL6 [GeneID=604] high versus BCL6 [GeneID=604] low.	NA	10	0.05	8.26E-16	8.05E-13	Early_PT
+GSE26156_DOUBLE_POSITIVE_VS_CD4_SINGLE_POSITIVE_THYMOCYTE_UP	200	M8298	Genes up-regulated in thymocytes: double positive versus CD4 [GeneID=920] single positive.	NA	10	0.05	8.26E-16	8.05E-13	Early_PT
+GSE22886_NAIVE_CD4_TCELL_VS_48H_ACT_TH1_UP	200	M4524	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus stimulated CD4 [GeneID=920] Th1 cells at 48 h.	Up-regulated in naive vs stimulated CD4 T cells	9	0.045	6.83E-14	3.33E-11	Early_PT
+GSE22886_NAIVE_CD4_TCELL_VS_DC_UP	200	M4501	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus unstimulatd dendritic cells (DC).	Up-regulated in naive CD4 T cells vs DC	9	0.045	6.83E-14	3.33E-11	Early_PT
+GSE22886_NAIVE_TCELL_VS_MONOCYTE_UP	200	M4478	Genes up-regulated in comparison of naive CD4 [GeneID=920] CD8 T cells versus monocytes cultured for 0 days.	"Up-regulated in naive CD4, CD8 T cells vs monocytes"	9	0.045	6.83E-14	3.33E-11	Early_PT
+GSE24574_BCL6_HIGH_TFH_VS_TFH_CD4_TCELL_DN	200	M8331	Genes down-regulated in BCL6 [GeneID=604] high follicular helper T cells (Tfh) versus all Tfh.	NA	9	0.045	6.83E-14	3.33E-11	Early_PT
+GSE28726_ACT_CD4_TCELL_VS_ACT_NKTCELL_DN	200	M8313	Genes down-regulated in activated T cells: CD4 [GeneID=920] versus NKT.	Up-regulated in NKT vs activated CD4 T cells	9	0.045	6.83E-14	3.33E-11	Early_PT
+GSE16450_IMMATURE_VS_MATURE_NEURON_CELL_LINE_UP	198	M7397	Genes up-regulated in the neuron cell line: immature versus mature.	NA	8	0.0404	4.51E-12	1.13E-09	Early_PT
+GSE10325_CD4_TCELL_VS_BCELL_UP	200	M3076	Genes up-regulated in comparison of healthy CD4 [GeneID=920] T cells versus healthy CD19 [GeneID=920] B cells.	NA	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE10325_LUPUS_CD4_TCELL_VS_LUPUS_BCELL_UP	200	M3084	Genes up-regulated in comparison of systemic lupus erythematosus CD4 [GeneID=920] T cells versus systemic lupus erythematosus B cells.	NA	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE10325_LUPUS_CD4_TCELL_VS_LUPUS_MYELOID_UP	200	M3087	Genes up-regulated in comparison of systemic lupus erythematosus CD4 [GeneID=920] T cells versus systemic lupus erythematosus myeloid cells.	NA	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE11057_NAIVE_VS_EFF_MEMORY_CD4_TCELL_UP	200	M3104	Genes up-regulated in comparison of naive T cells versus effector memory T cells.	Up-regulated in naive vs effector memory T cells	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE22886_NAIVE_CD4_TCELL_VS_MONOCYTE_UP	200	M4504	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus day 0 monocytes.	NA	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE22886_NAIVE_TCELL_VS_DC_UP	200	M4475	Genes up-regulated in comparison of naive CD4 [GeneID=920] CD8 T cells versus unstimulated dendritic cells (DC).	"Up-regulated in naive CD4, CD8 T cells vs DC"	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE22886_NAIVE_TCELL_VS_NKCELL_UP	200	M4413	Genes up-regulated in comparison of naive CD4 [GeneID=920] CD8 T cells versus unstimulated NK cells.	"Up-regulated in naive CD4, CD8 T cells vs unstimulated NK cells"	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE24634_NAIVE_CD4_TCELL_VS_DAY3_IL4_CONV_TREG_UP	200	M4586	Genes up-regulated in comparison of naive T cells at day 0 versus CD25+ regulatory T cell (Treg) treated with IL4 [GeneID=3565] at day 3.	Up-regulated in naive T cells vs Treg	8	0.04	4.89E-12	1.13E-09	Early_PT
+GSE24634_TEFF_VS_TCONV_DAY5_IN_CULTURE_DN	200	M4620	Genes down-regulated in comparison of untreated CD25+ T effector cells at day 5 versus untreated CD25- T cells at day 5.	Up-regulated in CD25- vs CD25+ effector T cells	8	0.04	4.89E-12	1.13E-09	Early_PT
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+5684	PSMA3		"proteasome (prosome, macropain) subunit, alpha type, 3"						
+9235	IL32		interleukin 32						
+10169	SERF2		small EDRK-rich factor 2						
+7114	TMSB4X		"thymosin beta 4, X-linked"						
+60672	MIIP		migration and invasion inhibitory protein						
+811	CALR		calreticulin						
+58515	SELK		selenoprotein K						
+4708	NDUFB2		"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2, 8kDa"						
+514	ATP5E		"ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit"						
+140823	ROMO1		reactive oxygen species modulator 1						
+5688	PSMA7		"proteasome (prosome, macropain) subunit, alpha type, 7"						
+3269	HRH1		histamine receptor H1						
+3848	KRT1		keratin 1						

@@ -1,0 +1,81 @@
+Gene_Set_Name,Systematic_name,Gene_Set_K,Description,Description_short,Genes_Overlap_k,k/K,pvalue,FDR_qvalue,Cluster_subset
+HALLMARK_MYC_TARGETS_V1,NA,200,A subgroup of genes regulated by MYC - version 1 (v1).,MYC regulated genes (v1),19,0.095,2.67E-24,8.13E-23,Cluster1
+HALLMARK_MYC_TARGETS_V2,NA,58,A subgroup of genes regulated by MYC - version 2 (v2).,MYC regulated genes (v2),14,0.2414,3.25E-24,8.13E-23,Cluster1
+HALLMARK_IL2_STAT5_SIGNALING,NA,200,Genes up-regulated by STAT5 in response to IL2 stimulation.,IL2 stimulation,16,0.08,2.16E-19,2.70E-18,Cluster1
+HALLMARK_MTORC1_SIGNALING,NA,200,Genes up-regulated through activation of mTORC1 complex.,mTORC1 signaling,16,0.08,2.16E-19,2.70E-18,Cluster1
+HALLMARK_TNFA_SIGNALING_VIA_NFKB,NA,200,Genes regulated by NF-kB in response to TNF [GeneID=7124].,NFKB signaling,15,0.075,8.05E-18,8.05E-17,Cluster1
+HALLMARK_ALLOGRAFT_REJECTION,NA,200,Genes up-regulated during transplant rejection.,allograpft rejection,12,0.06,2.56E-13,2.13E-12,Cluster1
+HALLMARK_UNFOLDED_PROTEIN_RESPONSE,NA,113,"Genes up-regulated during unfolded protein response, a cellular stress response related to the endoplasmic reticulum.",unfolded protein response,8,0.0708,7.42E-10,5.30E-09,Cluster1
+HALLMARK_INFLAMMATORY_RESPONSE,NA,200,Genes defining inflammatory response.,Inflammatory response,8,0.04,6.61E-08,4.13E-07,Cluster1
+HALLMARK_E2F_TARGETS,NA,200,Genes encoding cell cycle related targets of E2F transcription factors.,E2F cell cycle targets,6,0.03,1.60E-05,6.66E-05,Cluster1
+HALLMARK_G2M_CHECKPOINT,NA,200,"Genes involved in the G2/M checkpoint, as in progression through the cell division cycle.",G2/M checkpoint,6,0.03,1.60E-05,6.66E-05,Cluster1
+HALLMARK_HYPOXIA,NA,200,Genes up-regulated in response to low oxygen levels (hypoxia).,NA,6,0.03,1.60E-05,6.66E-05,Cluster1
+HALLMARK_INTERFERON_GAMMA_RESPONSE,NA,200,Genes up-regulated in response to IFNG [GeneID=3458].,NA,6,0.03,1.60E-05,6.66E-05,Cluster1
+HALLMARK_UV_RESPONSE_DN,NA,144,Genes down-regulated in response to ultraviolet (UV) radiation.,NA,5,0.0347,4.18E-05,1.61E-04,Cluster1
+HALLMARK_GLYCOLYSIS,NA,200,Genes encoding proteins involved in glycolysis and gluconeogenesis.,NA,5,0.025,1.96E-04,7.00E-04,Cluster1
+HALLMARK_UV_RESPONSE_UP,NA,158,Genes up-regulated in response to ultraviolet (UV) radiation.,NA,4,0.0253,8.36E-04,2.79E-03,Cluster1
+HALLMARK_IL6_JAK_STAT3_SIGNALING,NA,87,"Genes up-regulated by IL6 [GeneID=3569] via STAT3 [GeneID=6774], e.g., during acute phase response.",NA,3,0.0345,1.61E-03,5.02E-03,Cluster1
+HALLMARK_ESTROGEN_RESPONSE_EARLY,NA,200,Genes defining early response to estrogen.,NA,4,0.02,1.99E-03,5.85E-03,Cluster1
+HALLMARK_PI3K_AKT_MTOR_SIGNALING,NA,105,Genes up-regulated by activation of the PI3K/AKT/mTOR pathway.,NA,3,0.0286,2.74E-03,7.62E-03,Cluster1
+HALLMARK_WNT_BETA_CATENIN_SIGNALING,NA,42,Genes up-regulated by activation of WNT signaling through accumulation of beta catenin CTNNB1 [GeneID=1499].,NA,2,0.0476,5.53E-03,1.45E-02,Cluster1
+HALLMARK_FATTY_ACID_METABOLISM,NA,158,Genes encoding proteins involved in metabolism of fatty acids.,NA,3,0.019,8.54E-03,2.13E-02,Cluster1
+GSE26890_CXCR1_NEG_VS_POS_EFFECTOR_CD8_TCELL_UP,NA,200,Genes up-regulated in effector CD8 T cells: CXCR1+ [GeneID=3577] versus CXCR1- [GeneID=3577].,CXCR1 effector CD8 associated (vs CXCR-),14,0.07,3.25E-22,3.15E-18,Cluster2
+GSE21360_PRIMARY_VS_QUATERNARY_MEMORY_CD8_TCELL_UP,NA,175,Genes up-regulated in memory CD8 T cells: 1' versus 4'.,Associated with early memory CD8 response,12,0.0686,5.17E-19,2.51E-15,Cluster2
+GSE13485_CTRL_VS_DAY7_YF17D_VACCINE_PBMC_DN,NA,200,Genes down-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) versus PBMC 7 days after stimulation with YF17D vaccine.,NA,12,0.06,2.65E-18,8.55E-15,Cluster2
+ICHIBA_GRAFT_VERSUS_HOST_DISEASE_D7_UP,NA,107,"Hepatic graft versus host disease (GVHD), day 7: up-regulated in allogeneic vs syngeneic bone marrow transplant.",NA,10,0.0935,2.32E-17,5.61E-14,Cluster2
+TAKEDA_TARGETS_OF_NUP98_HOXA9_FUSION_3D_UP,NA,182,Genes up-regulated in CD34+ [GeneID=947] hematopoetic cells by expression of NUP98-HOXA9 fusion [GeneID=4928;3205] off a retroviral vector at 3 days after transduction.,NA,11,0.0604,7.08E-17,1.37E-13,Cluster2
+GSE41867_DAY6_EFFECTOR_VS_DAY30_EXHAUSTED_CD8_TCELL_LCMV_CLONE13_UP,NA,199,Genes up-regulated in CD8 T cells during chronic infection with LCMV-Clone 13: effectors at day 6 versus exhausted at day 30.,Effector CD8 T cell associated in LCMV model (vs Day30 exhuasted),11,0.0553,1.92E-16,1.78E-13,Cluster2
+GSE19888_ADENOSINE_A3R_INH_PRETREAT_AND_ACT_BY_A3R_VS_TCELL_MEMBRANES_ACT_MAST_CELL_UP,NA,200,Genes up-regulated in HMC-1 (mast leukemia) cells: incubated with the peptide ALL1 and then treated with Cl-IB-MECA [PubChem=3035850] versus stimulation by T cell membranes.,NA,11,0.055,2.03E-16,1.78E-13,Cluster2
+GSE19888_ADENOSINE_A3R_INH_VS_ACT_WITH_INHIBITOR_PRETREATMENT_IN_MAST_CELL_UP,NA,200,Genes up-regulated in HMC-1 (mast leukemia) cells incubated the peptide ALL1 versus those followed by treatment with Cl-IB-MECA [PubChem=3035850].,NA,11,0.055,2.03E-16,1.78E-13,Cluster2
+GSE26030_TH1_VS_TH17_DAY5_POST_POLARIZATION_UP,NA,200,Genes up-regulated in T helper cells 5 days post polarization: Th1 versus Th17.,Th1 associated (vs Th17),11,0.055,2.03E-16,1.78E-13,Cluster2
+GSE33424_CD161_INT_VS_NEG_CD8_TCELL_UP,NA,200,Genes up-regulated in CD8 T cells: KLRB1 int [GeneID=3820] versus KLRB1- [GeneID=3820].,KLRB1 CD8 T cell associated (vs KLRB-),11,0.055,2.03E-16,1.78E-13,Cluster2
+GSE38681_WT_VS_LYL1_KO_LYMPHOID_PRIMED_MULTIPOTENT_PROGENITOR_DN,NA,200,Genes down-regulated in lymphoid primed multipotent progenitors: wildtype versus LYL1 [GeneID=4066] knockout.,NA,11,0.055,2.03E-16,1.78E-13,Cluster2
+GSE6259_FLT3L_INDUCED_DEC205_POS_DC_VS_CD8_TCELL_DN,NA,167,Genes down-regulated in cells from Flt3L Melanom injected mice: splenic DEC205+ dendritic cells versus CD8 T cells.,NA,10,0.0599,2.22E-15,1.79E-12,Cluster2
+RODWELL_AGING_KIDNEY_UP,NA,487,Genes whose expression increases with age in normal kidney.,NA,13,0.0267,3.36E-15,2.51E-12,Cluster2
+GSE13485_DAY3_VS_DAY7_YF17D_VACCINE_PBMC_DN,NA,199,Genes down-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) 3 days after stimulation with YF17D vaccine versus PBMC 7 days after the stimulation.,NA,10,0.0503,1.31E-14,5.56E-12,Cluster2
+GSE19888_ADENOSINE_A3R_INH_VS_TCELL_MEMBRANES_ACT_MAST_CELL_UP,NA,199,Genes up-regulated in HMC-1 (mast leukemia) cells: incubated with the peptide ALL1 versus stimulated with T cell membranes.,NA,10,0.0503,1.31E-14,5.56E-12,Cluster2
+GSE42724_NAIVE_BCELL_VS_PLASMABLAST_UP,NA,199,Genes up-regulated in B lymphocytes: naïve versus plasmablasts.,NA,10,0.0503,1.31E-14,5.56E-12,Cluster2
+GSE13485_DAY1_VS_DAY7_YF17D_VACCINE_PBMC_DN,NA,200,Genes down-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) 1 day after stimulation with YF17D vaccine versus PBMC 7 days after the stimulation.,NA,10,0.05,1.38E-14,5.56E-12,Cluster2
+GSE18791_UNSTIM_VS_NEWCATSLE_VIRUS_DC_6H_DN,NA,200,Genes down-regulated in comparison of control conventional dendritic cells (cDC) at 6 h versus cDCs infected with Newcastle disease virus (NDV) at 6 h.,NA,10,0.05,1.38E-14,5.56E-12,Cluster2
+GSE36527_CD69_NEG_VS_POS_TREG_CD62L_LOS_KLRG1_NEG_UP,NA,200,Genes up-regulated in KLRG1- SELL low [GeneID=10219;6402] T reg: CD69- [GeneID=969] versus CD69+ [GeneID=969].,CD69+ Treg associated (vs CD69- Treg),10,0.05,1.38E-14,5.56E-12,Cluster2
+GSE39110_UNTREATED_VS_IL2_TREATED_CD8_TCELL_DAY6_POST_IMMUNIZATION_UP,NA,200,Genes up-regulated in CD8 T cells 6 days after immunization: control versus IL2 [GeneID=3558] treatment.,Immunization response in CD8 T cells (vs IL2 ctrl),10,0.05,1.38E-14,5.56E-12,Cluster2
+GSE9650_NAIVE_VS_EFF_CD8_TCELL_DN,NA,200,Genes down-regulated in comparison of naive CD8 T cells versus effector CD8 T cells.,Effector CD8 T cell related genes (vs naive),16,0.08,3.39E-29,1.64E-25,Cluster3
+KAECH_NAIVE_VS_DAY8_EFF_CD8_TCELL_DN,NA,200,Genes down-regulated in naïve CD8 T cells compared to effector CD8 T cells at the peak expansion phase (day 8 after LCMV-Armstrong infection).,Effector CD8 T cell associated in LCMV model (at Day 8 vs naive),16,0.08,3.39E-29,1.64E-25,Cluster3
+KAECH_NAIVE_VS_DAY15_EFF_CD8_TCELL_DN,NA,200,Genes down-regulated in naïve CD8 T cells compared to effector CD8 T cells at contraction phase (day 15 after LCMV-Armstrong infection).,Effector CD8 T cell associated in LCMV model (vs Day 15 naive),15,0.075,6.70E-27,2.16E-23,Cluster3
+GSE15330_LYMPHOID_MULTIPOTENT_VS_MEGAKARYOCYTE_ERYTHROID_PROGENITOR_IKAROS_KO_DN,NA,177,Genes down-regulated in IKZF1 [GeneID=10320] knockout: lymphoid-primed multipotent progenitors versus megakaryo-erythrocyte progenitors.,NA,14,0.0791,2.02E-25,3.92E-22,Cluster3
+GSE3565_CTRL_VS_LPS_INJECTED_DUSP1_KO_SPLENOCYTES_UP,NA,177,Genes up-regulated in spleen from DUSP1 [GeneID=1843] knockout: control versus LPS.,NA,14,0.0791,2.02E-25,3.92E-22,Cluster3
+GSE15330_HSC_VS_LYMPHOID_PRIMED_MULTIPOTENT_PROGENITOR_DN,NA,181,Genes down-regulated in hematopoietic stem cells versus lymphoid primed multipotent progenitors.,NA,14,0.0773,2.79E-25,4.51E-22,Cluster3
+GSE2935_UV_INACTIVATED_VS_LIVE_SENDAI_VIRUS_INF_MACROPHAGE_DN,NA,173,Genes down-regulated in macrophages: control versus Sendai virus infection.,NA,13,0.0751,2.64E-23,3.18E-20,Cluster3
+GSE3565_CTRL_VS_LPS_INJECTED_SPLENOCYTES_UP,NA,173,Genes up-regulated in spleen from wildtype mice: control versus LPS.,NA,13,0.0751,2.64E-23,3.18E-20,Cluster3
+GOLDRATH_ANTIGEN_RESPONSE,NA,346,Genes up-regulated at the peak of an antigen response of naive CD8+ [GeneID=925;926] T-cells.,Naive CD8 T cell response to antigen,15,0.0434,2.96E-23,3.18E-20,Cluster3
+GSE15330_MEGAKARYOCYTE_ERYTHROID_VS_GRANULOCYTE_MONOCYTE_PROGENITOR_UP,NA,178,Genes up-regulated in megakaryo-erythrocyte progenitors versus granulo-monocyte progenitors.,NA,13,0.073,3.87E-23,3.75E-20,Cluster3
+GSE39110_UNTREATED_VS_IL2_TREATED_CD8_TCELL_DAY6_POST_IMMUNIZATION_UP,NA,200,Genes up-regulated in CD8 T cells 6 days after immunization: control versus IL2 [GeneID=3558] treatment.,Immunization response in CD8 T cells (vs IL2 ctrl),13,0.065,1.84E-22,1.62E-19,Cluster3
+GOLDRATH_NAIVE_VS_MEMORY_CD8_TCELL_DN,NA,200,Genes down-regulated in comparison of naive CD8 T cells versus memory CD8 T cells.,Memory CD8 T cell asociated (vs naive),12,0.06,2.53E-20,1.75E-17,Cluster3
+GSE9650_NAIVE_VS_MEMORY_CD8_TCELL_DN,NA,200,Genes down-regulated in comparison of naive CD8 T cells versus memory CD8 T cells.,Memory CD8 T cell related (vs naive),12,0.06,2.53E-20,1.75E-17,Cluster3
+KAECH_NAIVE_VS_MEMORY_CD8_TCELL_DN,NA,200,Genes down-regulated in naïve CD8 T cells compared to memory CD8 T cells (day 40+ after LCMV-Armstrong infection).,Memory CD8 T cell related in LCMV model (at Day 40 vs naive),12,0.06,2.53E-20,1.75E-17,Cluster3
+GSE13522_WT_VS_IFNAR_KO_SKIN_DN,NA,176,Genes down-regulated in skin: wildtype (BALB/c) versus IFNAR1 [GeneID=3454] knockout.,NA,11,0.0625,7.29E-19,4.71E-16,Cluster3
+GSE14699_DELETIONAL_TOLERANCE_VS_ACTIVATED_CD8_TCELL_UP,NA,180,Genes up-regulated in CD8 T cells: undergoing deletional tolerance versus activated.,CD8 T cell tolerance related (vs activated T),11,0.0611,9.39E-19,5.68E-16,Cluster3
+GSE36078_WT_VS_IL1R_KO_LUNG_DC_AFTER_AD5_INF_UP,NA,200,Genes up-regulated in Lung dendritic cell from Ad5 infection wildtype mice versus Lung dendritic cell from Ad5 inf IL-1R mice.,NA,11,0.055,3.06E-18,1.74E-15,Cluster3
+DEURIG_T_CELL_PROLYMPHOCYTIC_LEUKEMIA_DN,NA,320,Genes down-regulated in T-PLL cells (T-cell prolymphocytic leukemia) bearing the inv(14)/t(14:14) chromosomal aberration.,NA,12,0.0375,7.64E-18,4.11E-15,Cluster3
+GSE3565_DUSP1_VS_WT_SPLENOCYTES_UP,NA,163,Genes up-regulated in untreated spleen: DUSP1 [GeneID=1843] knockout versus wildtype.,NA,10,0.0613,4.05E-17,2.06E-14,Cluster3
+GSE37532_WT_VS_PPARG_KO_LN_TCONV_DN,NA,176,Genes down-regulated in T conv from lymph node of elderly (retired breeder) mice: wildtype versus PPARG [GeneID=5468] knockout.,PPARG KO T cell related (vs T conv),10,0.0568,8.85E-17,4.29E-14,Cluster3
+GSE7219_UNSTIM_VS_LPS_AND_ANTI_CD40_STIM_DC_UP,NA,171,Genes up-regulated in dendric cells: untreated versus LPS and anti-CD40.,NA,18,0.1053,4.94E-32,4.78E-28,Cluster4
+GSE3565_CTRL_VS_LPS_INJECTED_DUSP1_KO_SPLENOCYTES_DN,NA,168,Genes down-regulated in spleen from DUSP1 [GeneID=1843] knockout: control versus LPS.,NA,17,0.1012,6.22E-30,3.01E-26,Cluster4
+GSE3565_DUSP1_VS_WT_SPLENOCYTES_DN,NA,177,Genes down-regulated in untreated spleen: DUSP1 [GeneID=1843] knockout versus wildtype.,NA,16,0.0904,2.37E-27,7.65E-24,Cluster4
+GSE14415_FOXP3_KO_NATURAL_TREG_VS_TCONV_DN,NA,170,Genes down-regulated in natural T reg with non-functional FOXP3 [GeneID=50943] versus T conv.,Tconv related (vs Treg),15,0.0882,1.74E-25,4.20E-22,Cluster4
+GSE3565_CTRL_VS_LPS_INJECTED_SPLENOCYTES_DN,NA,173,Genes down-regulated in spleen from wildtype mice: control versus LPS.,NA,15,0.0867,2.28E-25,4.41E-22,Cluster4
+GSE7219_UNSTIM_VS_LPS_AND_ANTI_CD40_STIM_NIK_NFKB2_KO_DC_UP,NA,176,Genes up-regulated in dendritic cell NIK NFkB2-KO versus dendritic cell NIK NFkB2-KO LPS and anti-CD40 stimulated.,NA,15,0.0852,2.98E-25,4.80E-22,Cluster4
+GOLDRATH_EFF_VS_MEMORY_CD8_TCELL_DN,NA,200,Genes down-regulated in comparison of effector CD8 T cells versus memory CD8 T cells.,Memory CD8 T cell associated (vs effector),14,0.07,2.33E-22,2.82E-19,Cluster4
+KAECH_NAIVE_VS_DAY15_EFF_CD8_TCELL_UP,NA,200,Genes up-regulated in naïve CD8 T cells compared to effector CD8 T cells at contraction phase (day 15 after LCMV-Armstrong infection).,Naive CD8 associated in LCMV model (vs effector),14,0.07,2.33E-22,2.82E-19,Cluster4
+GSE15330_HSC_VS_MEGAKARYOCYTE_ERYTHROID_PROGENITOR_UP,NA,160,Genes up-regulated in hematopoietic stem cells versus megakaryo-erythrocyte progenitors.,NA,13,0.0813,1.17E-21,1.25E-18,Cluster4
+GOLDRATH_NAIVE_VS_EFF_CD8_TCELL_UP,NA,200,Genes up-regulated in comparison of naïve CD8 T cells versus effector CD8 T cells.,Naive CD8 T cell associated (vs effector),13,0.065,2.28E-20,2.21E-17,Cluster4
+GSE3565_DUSP1_VS_WT_SPLENOCYTES_POST_LPS_INJECTION_UP,NA,162,Genes up-regulated in spleen from mice injected with LPS: DUSP1 [GeneID=1843] knockout versus wildtype.,NA,12,0.0741,1.52E-19,1.34E-16,Cluster4
+GSE15330_LYMPHOID_MULTIPOTENT_VS_MEGAKARYOCYTE_ERYTHROID_PROGENITOR_IKAROS_KO_UP,NA,164,Genes up-regulated in IKZF1 [GeneID=10320] knockout: lymphoid-primed multipotent progenitors versus megakaryo-erythrocyte progenitors.,NA,12,0.0732,1.77E-19,1.42E-16,Cluster4
+GSE2935_UV_INACTIVATED_VS_LIVE_SENDAI_VIRUS_INF_MACROPHAGE_UP,NA,170,Genes up-regulated in macrophages: control versus Sendai virus infection.,NA,12,0.0706,2.75E-19,2.05E-16,Cluster4
+GSE26488_CTRL_VS_PEPTIDE_INJECTION_OT2_THYMOCYTE_DN,NA,180,Genes down-regulated in double positive thymocytes from OT-2 transgenic mice: control versus injected with agonist peptide.,NA,12,0.0667,5.54E-19,3.83E-16,Cluster4
+GSE22886_NAIVE_TCELL_VS_DC_UP,NA,200,Genes up-regulated in comparison of naive CD4 [GeneID=920] CD8 T cells versus unstimulated dendritic cells (DC).,Naive CD4 CD8 T cells related (vs DC),12,0.06,2.01E-18,1.08E-15,Cluster4
+GSE29164_CD8_TCELL_VS_CD8_TCELL_AND_IL12_TREATED_MELANOMA_DAY3_DN,NA,200,Genes down-regulated in B16 melanoma at day 3 of adoptive transfer treatment: mock versus therapy.,NA,12,0.06,2.01E-18,1.08E-15,Cluster4
+GSE9650_NAIVE_VS_EFF_CD8_TCELL_UP,NA,200,Genes up-regulated in comparison of naive CD8 T cells versus effector CD8 T cells.,NA,12,0.06,2.01E-18,1.08E-15,Cluster4
+KAECH_DAY15_EFF_VS_MEMORY_CD8_TCELL_DN,NA,200,Genes down-regulated in effector CD8 T cells at contraction phase (day 15 after LCMV-Armstrong infection) compared to memory CD8 T cells (day 40+ after LCMV-Armstrong infection).,Memory CD8 T cell associated in LCMV model (vs effector),12,0.06,2.01E-18,1.08E-15,Cluster4
+GSE14415_INDUCED_TREG_VS_FOXP3_KO_INDUCED_TREG_UP,NA,170,Genes up-regulated in induced T reg: wildtype versus non-functional FOXP3 [GeneID=50943].,NA,11,0.0647,2.57E-17,1.31E-14,Cluster4
+GSE14699_NAIVE_VS_ACT_CD8_TCELL_DN,NA,174,Genes down-regulated in CD8 T cells: naïve versus activated.,NA,11,0.0632,3.33E-17,1.61E-14,Cluster4
